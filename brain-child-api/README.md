@@ -2,7 +2,7 @@
 
 # v1.0
 -To Run the server,
-> Clone the repo
+> Download the folder
 
 > Run: npm install
 
