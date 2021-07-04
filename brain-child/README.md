@@ -1,6 +1,6 @@
 # brain-child
 - To run
-> Clone the repo
+> Download the folder
 
 > Run: npm install
 
